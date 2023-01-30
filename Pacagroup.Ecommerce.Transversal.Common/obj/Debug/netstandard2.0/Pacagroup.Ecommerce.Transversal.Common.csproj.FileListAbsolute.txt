@@ -1,0 +1,9 @@
+C:\Users\Matias\Desktop\proyecto_cursoCSharp\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Common.csprojAssemblyReference.cache
+C:\Users\Matias\Desktop\proyecto_cursoCSharp\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Common.AssemblyInfoInputs.cache
+C:\Users\Matias\Desktop\proyecto_cursoCSharp\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Common.AssemblyInfo.cs
+C:\Users\Matias\Desktop\proyecto_cursoCSharp\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Common.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Desktop\proyecto_cursoCSharp\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Common.deps.json
+C:\Users\Matias\Desktop\proyecto_cursoCSharp\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Common.dll
+C:\Users\Matias\Desktop\proyecto_cursoCSharp\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Common.pdb
+C:\Users\Matias\Desktop\proyecto_cursoCSharp\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Common.dll
+C:\Users\Matias\Desktop\proyecto_cursoCSharp\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Common.pdb

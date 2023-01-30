@@ -1,0 +1,6 @@
+C:\Users\Matias\Desktop\proyecto_cursoCSharp\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infrastructure.Repository\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Domain.Entity.dll
+C:\Users\Matias\Desktop\proyecto_cursoCSharp\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infrastructure.Repository\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Infrastructure.Data.dll
+C:\Users\Matias\Desktop\proyecto_cursoCSharp\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infrastructure.Repository\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Infrastructure.Interface.dll
+C:\Users\Matias\Desktop\proyecto_cursoCSharp\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infrastructure.Repository\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Common.dll
+C:\Users\Matias\Desktop\proyecto_cursoCSharp\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infrastructure.Repository\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Infrastructure.Repository.AssemblyInfoInputs.cache
+C:\Users\Matias\Desktop\proyecto_cursoCSharp\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infrastructure.Repository\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Infrastructure.Repository.AssemblyInfo.cs

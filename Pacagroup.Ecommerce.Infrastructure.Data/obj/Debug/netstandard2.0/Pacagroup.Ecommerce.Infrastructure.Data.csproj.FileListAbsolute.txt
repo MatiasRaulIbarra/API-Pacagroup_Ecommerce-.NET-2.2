@@ -1,0 +1,5 @@
+C:\Users\Matias\Desktop\proyecto_cursoCSharp\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infrastructure.Data\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Infrastructure.Data.deps.json
+C:\Users\Matias\Desktop\proyecto_cursoCSharp\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infrastructure.Data\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Infrastructure.Data.dll
+C:\Users\Matias\Desktop\proyecto_cursoCSharp\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infrastructure.Data\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Infrastructure.Data.csprojAssemblyReference.cache
+C:\Users\Matias\Desktop\proyecto_cursoCSharp\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infrastructure.Data\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Infrastructure.Data.AssemblyInfoInputs.cache
+C:\Users\Matias\Desktop\proyecto_cursoCSharp\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infrastructure.Data\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Infrastructure.Data.AssemblyInfo.cs
