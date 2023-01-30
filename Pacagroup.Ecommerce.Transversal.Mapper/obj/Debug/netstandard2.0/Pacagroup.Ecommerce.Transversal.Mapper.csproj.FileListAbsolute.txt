@@ -1,0 +1,14 @@
+C:\Users\Matias\Desktop\proyecto_cursoCSharp\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Mapper.deps.json
+C:\Users\Matias\Desktop\proyecto_cursoCSharp\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Mapper.dll
+C:\Users\Matias\Desktop\proyecto_cursoCSharp\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Mapper.AssemblyInfoInputs.cache
+C:\Users\Matias\Desktop\proyecto_cursoCSharp\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Mapper.AssemblyInfo.cs
+C:\Users\Matias\Desktop\proyecto_cursoCSharp\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Mapper.pdb
+C:\Users\Matias\Desktop\proyecto_cursoCSharp\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Application.DTO.dll
+C:\Users\Matias\Desktop\proyecto_cursoCSharp\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Domain.Entity.dll
+C:\Users\Matias\Desktop\proyecto_cursoCSharp\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Application.DTO.pdb
+C:\Users\Matias\Desktop\proyecto_cursoCSharp\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Domain.Entity.pdb
+C:\Users\Matias\Desktop\proyecto_cursoCSharp\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Mapper.csprojAssemblyReference.cache
+C:\Users\Matias\Desktop\proyecto_cursoCSharp\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Mapper.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Desktop\proyecto_cursoCSharp\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Mapper.csproj.CopyComplete
+C:\Users\Matias\Desktop\proyecto_cursoCSharp\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Mapper.dll
+C:\Users\Matias\Desktop\proyecto_cursoCSharp\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Mapper.pdb
