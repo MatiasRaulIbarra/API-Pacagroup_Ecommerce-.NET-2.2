@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Pacagroup.Ecommerce.Application.DTO",
+    "\\Pacagroup.Ecommerce.Services.WebApi"
   ],
+  "SelectedNode": "\\Pacagroup.Ecommerce.Services.WebApi\\Controllers",
   "PreviewInSolutionExplorer": false
 }

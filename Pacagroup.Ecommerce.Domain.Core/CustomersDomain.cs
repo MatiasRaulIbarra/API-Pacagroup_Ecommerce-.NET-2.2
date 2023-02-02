@@ -5,7 +5,6 @@ using Pacagroup.Ecommerce.Infrastructure.Interface;
 using System.Threading.Tasks;
 using System.Collections.Generic;
 
-
 namespace Pacagroup.Ecommerce.Domain.Core
 {
     public class CustomersDomain : ICustomersDomain
@@ -27,6 +26,7 @@ namespace Pacagroup.Ecommerce.Domain.Core
         {
             return _customersRepository.Update(customers);
         }
+
         public bool Delete(string customerId)
         {
             return _customersRepository.Delete(customerId);
@@ -41,26 +41,29 @@ namespace Pacagroup.Ecommerce.Domain.Core
         {
             return _customersRepository.GetAll();
         }
+
         #endregion
 
-        #region metodos asincronicos
+        #region Métodos Asíncronos
+
         public async Task<bool> InsertAsync(Customers customers)
         {
             return await _customersRepository.InsertAsync(customers);
         }
+
         public async Task<bool> UpdateAsync(Customers customers)
         {
             return await _customersRepository.UpdateAsync(customers);
         }
 
-        public async Task<bool> DeleteAsync(string customersId)
+        public async Task<bool> DeleteAsync(string customerId)
         {
-            return await _customersRepository.DeleteAsync(customersId);
+            return await _customersRepository.DeleteAsync(customerId);
         }
 
-        public async Task<Customers> GetAsync(string customersId)
+        public async Task<Customers> GetAsync(string customerId)
         {
-            return await _customersRepository.GetAsync(customersId);
+            return await _customersRepository.GetAsync(customerId);
         }
 
         public async Task<IEnumerable<Customers>> GetAllAsync()

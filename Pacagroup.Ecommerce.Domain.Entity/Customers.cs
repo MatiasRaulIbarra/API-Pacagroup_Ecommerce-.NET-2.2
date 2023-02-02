@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Pacagroup.Ecommerce.Domain.Entity
+﻿namespace Pacagroup.Ecommerce.Domain.Entity
 {
     public class Customers
     {
@@ -15,6 +13,5 @@ namespace Pacagroup.Ecommerce.Domain.Entity
         public string Country { get; set; }
         public string Phone { get; set; }
         public string Fax { get; set; }
-
     }
 }

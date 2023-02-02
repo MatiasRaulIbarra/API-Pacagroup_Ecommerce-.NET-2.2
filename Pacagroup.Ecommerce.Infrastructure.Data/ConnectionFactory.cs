@@ -1,8 +1,9 @@
 ﻿using System;
-using System.Data;
-using System.Data.SqlClient;
-using Microsoft.Extensions.Configuration;
 using Pacagroup.Ecommerce.Transversal.Common;
+using Microsoft.Extensions.Configuration;
+using System.Data.SqlClient;
+using System.Data;
+
 namespace Pacagroup.Ecommerce.Infrastructure.Data
 {
     public class ConnectionFactory : IConnectionFactory
@@ -19,15 +20,12 @@ namespace Pacagroup.Ecommerce.Infrastructure.Data
             get
             {
                 var sqlConnection = new SqlConnection();
-
                 if (sqlConnection == null) return null;
 
                 sqlConnection.ConnectionString = _configuration.GetConnectionString("NorthwindConnection");
-
                 sqlConnection.Open();
                 return sqlConnection;
             }
-
         }
     }
 }

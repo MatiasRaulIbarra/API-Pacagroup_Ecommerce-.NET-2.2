@@ -1,18 +1,17 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 using Pacagroup.Ecommerce.Domain.Entity;
 using Pacagroup.Ecommerce.Infrastructure.Interface;
 using Pacagroup.Ecommerce.Transversal.Common;
 using Dapper;
 using System.Data;
 using System.Threading.Tasks;
+using System.Collections.Generic;
+
 namespace Pacagroup.Ecommerce.Infrastructure.Repository
 {
-    class CustomersRepository : ICustomersRepository
+    public class CustomersRepository : ICustomersRepository
     {
         private readonly IConnectionFactory _connectionFactory;
-
         public CustomersRepository(IConnectionFactory connectionFactory)
         {
             _connectionFactory = connectionFactory;
@@ -137,7 +136,7 @@ namespace Pacagroup.Ecommerce.Infrastructure.Repository
                 var parameters = new DynamicParameters();
                 parameters.Add("CustomerID", customers.CustomerId);
                 parameters.Add("CompanyName", customers.CompanyName);
-                parameters.Add("ContactName", customers.CompanyName);
+                parameters.Add("ContactName", customers.ContactName);
                 parameters.Add("ContactTitle", customers.ContactTitle);
                 parameters.Add("Address", customers.Address);
                 parameters.Add("City", customers.City);
@@ -189,6 +188,5 @@ namespace Pacagroup.Ecommerce.Infrastructure.Repository
         }
 
         #endregion
-
     }
 }
