@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JQC0E5BmiaAFoJ9RoncsnqGDLFT6KqQB/l7Mm+4SUU+UvfAAue5KE/o//uuh6aRHLwuSNpY7GepNiRbcScv9mA==",
+  "dgSpecHash": "f5XE2DU9uWsQ0Aa+JyvaEFhIzluqIygLkEE9CZrvQDG0pxNtwTFpLLWs225rWt4NsPyk6IL153cr62G9ncBXkQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Matias\\Desktop\\proyecto_cursoCSharp\\proyecto\\Pacagroup.Ecommerce_v2\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Transversal.Mapper\\Pacagroup.Ecommerce.Transversal.Mapper.csproj",
+  "projectFilePath": "C:\\Users\\Matias\\Desktop\\proyecto_cursoCSharp\\Pacagroup.Ecommerce_v4\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Transversal.Mapper\\Pacagroup.Ecommerce.Transversal.Mapper.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Matias\\.nuget\\packages\\automapper\\8.0.0\\automapper.8.0.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

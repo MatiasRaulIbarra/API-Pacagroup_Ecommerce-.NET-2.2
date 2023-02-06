@@ -13373,11 +13373,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Matias\\Desktop\\proyecto_cursoCSharp\\proyecto\\Pacagroup.Ecommerce_v2\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Services.WebApi\\Pacagroup.Ecommerce.Services.WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\Matias\\Desktop\\proyecto_cursoCSharp\\Pacagroup.Ecommerce_v4\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Services.WebApi\\Pacagroup.Ecommerce.Services.WebApi.csproj",
       "projectName": "Pacagroup.Ecommerce.Services.WebApi",
-      "projectPath": "C:\\Users\\Matias\\Desktop\\proyecto_cursoCSharp\\proyecto\\Pacagroup.Ecommerce_v2\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Services.WebApi\\Pacagroup.Ecommerce.Services.WebApi.csproj",
+      "projectPath": "C:\\Users\\Matias\\Desktop\\proyecto_cursoCSharp\\Pacagroup.Ecommerce_v4\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Services.WebApi\\Pacagroup.Ecommerce.Services.WebApi.csproj",
       "packagesPath": "C:\\Users\\Matias\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Matias\\Desktop\\proyecto_cursoCSharp\\proyecto\\Pacagroup.Ecommerce_v2\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Services.WebApi\\obj\\",
+      "outputPath": "C:\\Users\\Matias\\Desktop\\proyecto_cursoCSharp\\Pacagroup.Ecommerce_v4\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Services.WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -13398,38 +13398,38 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\Matias\\Desktop\\proyecto_cursoCSharp\\proyecto\\Pacagroup.Ecommerce_v2\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Application.DTO\\Pacagroup.Ecommerce.Application.DTO.csproj": {
-              "projectPath": "C:\\Users\\Matias\\Desktop\\proyecto_cursoCSharp\\proyecto\\Pacagroup.Ecommerce_v2\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Application.DTO\\Pacagroup.Ecommerce.Application.DTO.csproj"
+            "C:\\Users\\Matias\\Desktop\\proyecto_cursoCSharp\\Pacagroup.Ecommerce_v4\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Application.DTO\\Pacagroup.Ecommerce.Application.DTO.csproj": {
+              "projectPath": "C:\\Users\\Matias\\Desktop\\proyecto_cursoCSharp\\Pacagroup.Ecommerce_v4\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Application.DTO\\Pacagroup.Ecommerce.Application.DTO.csproj"
             },
-            "C:\\Users\\Matias\\Desktop\\proyecto_cursoCSharp\\proyecto\\Pacagroup.Ecommerce_v2\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Application.Interface\\Pacagroup.Ecommerce.Application.Interface.csproj": {
-              "projectPath": "C:\\Users\\Matias\\Desktop\\proyecto_cursoCSharp\\proyecto\\Pacagroup.Ecommerce_v2\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Application.Interface\\Pacagroup.Ecommerce.Application.Interface.csproj"
+            "C:\\Users\\Matias\\Desktop\\proyecto_cursoCSharp\\Pacagroup.Ecommerce_v4\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Application.Interface\\Pacagroup.Ecommerce.Application.Interface.csproj": {
+              "projectPath": "C:\\Users\\Matias\\Desktop\\proyecto_cursoCSharp\\Pacagroup.Ecommerce_v4\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Application.Interface\\Pacagroup.Ecommerce.Application.Interface.csproj"
             },
-            "C:\\Users\\Matias\\Desktop\\proyecto_cursoCSharp\\proyecto\\Pacagroup.Ecommerce_v2\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Application.Main\\Pacagroup.Ecommerce.Application.Main.csproj": {
-              "projectPath": "C:\\Users\\Matias\\Desktop\\proyecto_cursoCSharp\\proyecto\\Pacagroup.Ecommerce_v2\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Application.Main\\Pacagroup.Ecommerce.Application.Main.csproj"
+            "C:\\Users\\Matias\\Desktop\\proyecto_cursoCSharp\\Pacagroup.Ecommerce_v4\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Application.Main\\Pacagroup.Ecommerce.Application.Main.csproj": {
+              "projectPath": "C:\\Users\\Matias\\Desktop\\proyecto_cursoCSharp\\Pacagroup.Ecommerce_v4\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Application.Main\\Pacagroup.Ecommerce.Application.Main.csproj"
             },
-            "C:\\Users\\Matias\\Desktop\\proyecto_cursoCSharp\\proyecto\\Pacagroup.Ecommerce_v2\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Domain.Core\\Pacagroup.Ecommerce.Domain.Core.csproj": {
-              "projectPath": "C:\\Users\\Matias\\Desktop\\proyecto_cursoCSharp\\proyecto\\Pacagroup.Ecommerce_v2\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Domain.Core\\Pacagroup.Ecommerce.Domain.Core.csproj"
+            "C:\\Users\\Matias\\Desktop\\proyecto_cursoCSharp\\Pacagroup.Ecommerce_v4\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Domain.Core\\Pacagroup.Ecommerce.Domain.Core.csproj": {
+              "projectPath": "C:\\Users\\Matias\\Desktop\\proyecto_cursoCSharp\\Pacagroup.Ecommerce_v4\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Domain.Core\\Pacagroup.Ecommerce.Domain.Core.csproj"
             },
-            "C:\\Users\\Matias\\Desktop\\proyecto_cursoCSharp\\proyecto\\Pacagroup.Ecommerce_v2\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Domain.Entity\\Pacagroup.Ecommerce.Domain.Entity.csproj": {
-              "projectPath": "C:\\Users\\Matias\\Desktop\\proyecto_cursoCSharp\\proyecto\\Pacagroup.Ecommerce_v2\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Domain.Entity\\Pacagroup.Ecommerce.Domain.Entity.csproj"
+            "C:\\Users\\Matias\\Desktop\\proyecto_cursoCSharp\\Pacagroup.Ecommerce_v4\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Domain.Entity\\Pacagroup.Ecommerce.Domain.Entity.csproj": {
+              "projectPath": "C:\\Users\\Matias\\Desktop\\proyecto_cursoCSharp\\Pacagroup.Ecommerce_v4\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Domain.Entity\\Pacagroup.Ecommerce.Domain.Entity.csproj"
             },
-            "C:\\Users\\Matias\\Desktop\\proyecto_cursoCSharp\\proyecto\\Pacagroup.Ecommerce_v2\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Domain.Interface\\Pacagroup.Ecommerce.Domain.Interface.csproj": {
-              "projectPath": "C:\\Users\\Matias\\Desktop\\proyecto_cursoCSharp\\proyecto\\Pacagroup.Ecommerce_v2\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Domain.Interface\\Pacagroup.Ecommerce.Domain.Interface.csproj"
+            "C:\\Users\\Matias\\Desktop\\proyecto_cursoCSharp\\Pacagroup.Ecommerce_v4\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Domain.Interface\\Pacagroup.Ecommerce.Domain.Interface.csproj": {
+              "projectPath": "C:\\Users\\Matias\\Desktop\\proyecto_cursoCSharp\\Pacagroup.Ecommerce_v4\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Domain.Interface\\Pacagroup.Ecommerce.Domain.Interface.csproj"
             },
-            "C:\\Users\\Matias\\Desktop\\proyecto_cursoCSharp\\proyecto\\Pacagroup.Ecommerce_v2\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Infrastructure.Data\\Pacagroup.Ecommerce.Infrastructure.Data.csproj": {
-              "projectPath": "C:\\Users\\Matias\\Desktop\\proyecto_cursoCSharp\\proyecto\\Pacagroup.Ecommerce_v2\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Infrastructure.Data\\Pacagroup.Ecommerce.Infrastructure.Data.csproj"
+            "C:\\Users\\Matias\\Desktop\\proyecto_cursoCSharp\\Pacagroup.Ecommerce_v4\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Infrastructure.Data\\Pacagroup.Ecommerce.Infrastructure.Data.csproj": {
+              "projectPath": "C:\\Users\\Matias\\Desktop\\proyecto_cursoCSharp\\Pacagroup.Ecommerce_v4\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Infrastructure.Data\\Pacagroup.Ecommerce.Infrastructure.Data.csproj"
             },
-            "C:\\Users\\Matias\\Desktop\\proyecto_cursoCSharp\\proyecto\\Pacagroup.Ecommerce_v2\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Infrastructure.Interface\\Pacagroup.Ecommerce.Infrastructure.Interface.csproj": {
-              "projectPath": "C:\\Users\\Matias\\Desktop\\proyecto_cursoCSharp\\proyecto\\Pacagroup.Ecommerce_v2\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Infrastructure.Interface\\Pacagroup.Ecommerce.Infrastructure.Interface.csproj"
+            "C:\\Users\\Matias\\Desktop\\proyecto_cursoCSharp\\Pacagroup.Ecommerce_v4\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Infrastructure.Interface\\Pacagroup.Ecommerce.Infrastructure.Interface.csproj": {
+              "projectPath": "C:\\Users\\Matias\\Desktop\\proyecto_cursoCSharp\\Pacagroup.Ecommerce_v4\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Infrastructure.Interface\\Pacagroup.Ecommerce.Infrastructure.Interface.csproj"
             },
-            "C:\\Users\\Matias\\Desktop\\proyecto_cursoCSharp\\proyecto\\Pacagroup.Ecommerce_v2\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Infrastructure.Repository\\Pacagroup.Ecommerce.Infrastructure.Repository.csproj": {
-              "projectPath": "C:\\Users\\Matias\\Desktop\\proyecto_cursoCSharp\\proyecto\\Pacagroup.Ecommerce_v2\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Infrastructure.Repository\\Pacagroup.Ecommerce.Infrastructure.Repository.csproj"
+            "C:\\Users\\Matias\\Desktop\\proyecto_cursoCSharp\\Pacagroup.Ecommerce_v4\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Infrastructure.Repository\\Pacagroup.Ecommerce.Infrastructure.Repository.csproj": {
+              "projectPath": "C:\\Users\\Matias\\Desktop\\proyecto_cursoCSharp\\Pacagroup.Ecommerce_v4\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Infrastructure.Repository\\Pacagroup.Ecommerce.Infrastructure.Repository.csproj"
             },
-            "C:\\Users\\Matias\\Desktop\\proyecto_cursoCSharp\\proyecto\\Pacagroup.Ecommerce_v2\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Transversal.Common\\Pacagroup.Ecommerce.Transversal.Common.csproj": {
-              "projectPath": "C:\\Users\\Matias\\Desktop\\proyecto_cursoCSharp\\proyecto\\Pacagroup.Ecommerce_v2\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Transversal.Common\\Pacagroup.Ecommerce.Transversal.Common.csproj"
+            "C:\\Users\\Matias\\Desktop\\proyecto_cursoCSharp\\Pacagroup.Ecommerce_v4\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Transversal.Common\\Pacagroup.Ecommerce.Transversal.Common.csproj": {
+              "projectPath": "C:\\Users\\Matias\\Desktop\\proyecto_cursoCSharp\\Pacagroup.Ecommerce_v4\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Transversal.Common\\Pacagroup.Ecommerce.Transversal.Common.csproj"
             },
-            "C:\\Users\\Matias\\Desktop\\proyecto_cursoCSharp\\proyecto\\Pacagroup.Ecommerce_v2\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Transversal.Mapper\\Pacagroup.Ecommerce.Transversal.Mapper.csproj": {
-              "projectPath": "C:\\Users\\Matias\\Desktop\\proyecto_cursoCSharp\\proyecto\\Pacagroup.Ecommerce_v2\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Transversal.Mapper\\Pacagroup.Ecommerce.Transversal.Mapper.csproj"
+            "C:\\Users\\Matias\\Desktop\\proyecto_cursoCSharp\\Pacagroup.Ecommerce_v4\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Transversal.Mapper\\Pacagroup.Ecommerce.Transversal.Mapper.csproj": {
+              "projectPath": "C:\\Users\\Matias\\Desktop\\proyecto_cursoCSharp\\Pacagroup.Ecommerce_v4\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Transversal.Mapper\\Pacagroup.Ecommerce.Transversal.Mapper.csproj"
             }
           }
         }

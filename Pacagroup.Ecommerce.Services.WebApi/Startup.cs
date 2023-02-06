@@ -22,11 +22,16 @@ using Pacagroup.Ecommerce.Application.Main;
 using Swashbuckle.AspNetCore.Swagger;
 using System.Reflection;
 using System.IO;
+using Pacagroup.Ecommerce.Services.WebApi.Helpers;
+using System.Text;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.IdentityModel.Tokens;
 
 namespace Pacagroup.Ecommerce.Services.WebApi
 {
     public class Startup
     {
+        readonly string myPolicy = "policyApiEcommerce";
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
@@ -38,14 +43,69 @@ namespace Pacagroup.Ecommerce.Services.WebApi
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddAutoMapper(x => x.AddProfile(new MappingsProfile()));
+            services.AddCors(options => options.AddPolicy(myPolicy, builder => builder.WithOrigins(Configuration["Config:OriginCors"])
+                                                                                        .AllowAnyHeader()
+                                                                                        .AllowAnyMethod()));
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2)
                 .AddJsonOptions(options => { options.SerializerSettings.ContractResolver = new Newtonsoft.Json.Serialization.DefaultContractResolver(); });
+
+            var appSettingsSection = Configuration.GetSection("Config");
+            services.Configure<AppSettings>(appSettingsSection);
+
+            // configure jwt authentication
+            var appSettings = appSettingsSection.Get<AppSettings>();
 
             services.AddSingleton<IConfiguration>(Configuration);
             services.AddSingleton<IConnectionFactory, ConnectionFactory>();
             services.AddScoped<ICustomersApplication, CustomersApplication>();
             services.AddScoped<ICustomersDomain, CustomersDomain>();
             services.AddScoped<ICustomersRepository, CustomersRepository>();
+            services.AddScoped<IUsersApplication, UsersApplication>();
+            services.AddScoped<IUsersDomain, UsersDomain>();
+            services.AddScoped<IUsersRepository, UsersRepository>();
+
+            var key = Encoding.ASCII.GetBytes(appSettings.Secret);
+            var Issuer = appSettings.Issuer;
+            var Audience = appSettings.Audience;
+
+            services.AddAuthentication(x =>
+            {
+                x.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
+                x.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
+            })
+            .AddJwtBearer(x =>
+            {
+                x.Events = new JwtBearerEvents
+                {
+                    OnTokenValidated = context =>
+                    {
+                        var userId = int.Parse(context.Principal.Identity.Name);
+                        return Task.CompletedTask;
+                    },
+
+                    OnAuthenticationFailed = context =>
+                    {
+                        if (context.Exception.GetType() == typeof(SecurityTokenExpiredException))
+                        {
+                            context.Response.Headers.Add("Token-Expired", "true");
+                        }
+                        return Task.CompletedTask;
+                    }
+                };
+                x.RequireHttpsMetadata = false;
+                x.SaveToken = false;
+                x.TokenValidationParameters = new TokenValidationParameters
+                {
+                    ValidateIssuerSigningKey = true,
+                    IssuerSigningKey = new SymmetricSecurityKey(key),
+                    ValidateIssuer = true,
+                    ValidIssuer = Issuer,
+                    ValidateAudience = true,
+                    ValidAudience = Audience,
+                    ValidateLifetime = true,
+                    ClockSkew = TimeSpan.Zero
+                };
+            });
 
             // Register the Swagger generator, defining 1 or more Swagger documents
             services.AddSwaggerGen(c =>
@@ -72,6 +132,19 @@ namespace Pacagroup.Ecommerce.Services.WebApi
                 var xmlFile = $"{Assembly.GetExecutingAssembly().GetName().Name}.xml";
                 var xmlPath = Path.Combine(AppContext.BaseDirectory, xmlFile);
                 c.IncludeXmlComments(xmlPath);
+
+                c.AddSecurityDefinition("Authorization", new ApiKeyScheme
+                {
+                    Description = "Authorization by API key.",
+                    In = "header",
+                    Type = "apiKey",
+                    Name = "Authorization"
+                });
+
+                c.AddSecurityRequirement(new Dictionary<string, IEnumerable<string>>
+                {
+                    { "Authorization", new string[0] }
+                });
             });
         }
 
@@ -92,6 +165,9 @@ namespace Pacagroup.Ecommerce.Services.WebApi
             {
                 c.SwaggerEndpoint("/swagger/v1/swagger.json", "My API Ecommerce V1");
             });
+
+            app.UseCors(myPolicy);
+            app.UseAuthentication();
 
             app.UseMvc();
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Matias\\Desktop\\proyecto_cursoCSharp\\proyecto\\Pacagroup.Ecommerce_v2\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Transversal.Common\\Pacagroup.Ecommerce.Transversal.Common.csproj": {}
+    "C:\\Users\\Matias\\Desktop\\proyecto_cursoCSharp\\Pacagroup.Ecommerce_v4\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Transversal.Common\\Pacagroup.Ecommerce.Transversal.Common.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Matias\\Desktop\\proyecto_cursoCSharp\\proyecto\\Pacagroup.Ecommerce_v2\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Transversal.Common\\Pacagroup.Ecommerce.Transversal.Common.csproj": {
+    "C:\\Users\\Matias\\Desktop\\proyecto_cursoCSharp\\Pacagroup.Ecommerce_v4\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Transversal.Common\\Pacagroup.Ecommerce.Transversal.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Matias\\Desktop\\proyecto_cursoCSharp\\proyecto\\Pacagroup.Ecommerce_v2\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Transversal.Common\\Pacagroup.Ecommerce.Transversal.Common.csproj",
+        "projectUniqueName": "C:\\Users\\Matias\\Desktop\\proyecto_cursoCSharp\\Pacagroup.Ecommerce_v4\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Transversal.Common\\Pacagroup.Ecommerce.Transversal.Common.csproj",
         "projectName": "Pacagroup.Ecommerce.Transversal.Common",
-        "projectPath": "C:\\Users\\Matias\\Desktop\\proyecto_cursoCSharp\\proyecto\\Pacagroup.Ecommerce_v2\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Transversal.Common\\Pacagroup.Ecommerce.Transversal.Common.csproj",
+        "projectPath": "C:\\Users\\Matias\\Desktop\\proyecto_cursoCSharp\\Pacagroup.Ecommerce_v4\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Transversal.Common\\Pacagroup.Ecommerce.Transversal.Common.csproj",
         "packagesPath": "C:\\Users\\Matias\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Matias\\Desktop\\proyecto_cursoCSharp\\proyecto\\Pacagroup.Ecommerce_v2\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Transversal.Common\\obj\\",
+        "outputPath": "C:\\Users\\Matias\\Desktop\\proyecto_cursoCSharp\\Pacagroup.Ecommerce_v4\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Transversal.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

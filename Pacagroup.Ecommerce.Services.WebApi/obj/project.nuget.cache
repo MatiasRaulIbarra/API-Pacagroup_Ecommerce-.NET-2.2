@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UYn/LwSS0zRuAdJrkMWMomFfEmSsbyyrjZNDeRgDLsrz3Sz+RvxTUCAAvaQYHHNBL/5JqC/ABHc7a2eaETit2A==",
+  "dgSpecHash": "YUFlQImM+sExD8pJBvmMxsxXqJQq9df/rPIP7hgv7GFJ/XeHvFTmv4r0R9h/heARQoM8ctyxDKJ4zwEbXhyByg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Matias\\Desktop\\proyecto_cursoCSharp\\proyecto\\Pacagroup.Ecommerce_v2\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Services.WebApi\\Pacagroup.Ecommerce.Services.WebApi.csproj",
+  "projectFilePath": "C:\\Users\\Matias\\Desktop\\proyecto_cursoCSharp\\Pacagroup.Ecommerce_v4\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Services.WebApi\\Pacagroup.Ecommerce.Services.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Matias\\.nuget\\packages\\automapper\\8.0.0\\automapper.8.0.0.nupkg.sha512",
     "C:\\Users\\Matias\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\6.0.0\\automapper.extensions.microsoft.dependencyinjection.6.0.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0h7f/34KimXZ9yP+TBSWzLauH4KpR5jo1vigZYzjDUr/ENe9lHMfRLaPyyj16ZP3C1TrFa2UlF9iZSoN+3hi5w==",
+  "dgSpecHash": "rd8o3P8Q6BdkCu/pL51ElwYUIe3Zo0d46PruIqj3Al2P3dzarUQpcFC9sCdazy2gvSZ58TY5qQQln71m/WpOcw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Matias\\Desktop\\proyecto_cursoCSharp\\proyecto\\Pacagroup.Ecommerce_v2\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Application.Interface\\Pacagroup.Ecommerce.Application.Interface.csproj",
+  "projectFilePath": "C:\\Users\\Matias\\Desktop\\proyecto_cursoCSharp\\Pacagroup.Ecommerce_v4\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Application.Interface\\Pacagroup.Ecommerce.Application.Interface.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

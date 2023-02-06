@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3Qs6ybBLQ+0ULJwH+443TziA3vz4L0QeuYdKjkjuDhnEfg/WkEguPHDaUkgkXPgjGkM7+6v73pJMc/H20Yk6Wg==",
+  "dgSpecHash": "8CeBXv81+v39KObe150BZbTOxg09DjECcAxlsYFV+O52OVolcyJlOCqTV1Ks5hR5zKW4kCvwIpsBd2h51B7Wwg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Matias\\Desktop\\proyecto_cursoCSharp\\proyecto\\Pacagroup.Ecommerce_v2\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Infrastructure.Repository\\Pacagroup.Ecommerce.Infrastructure.Repository.csproj",
+  "projectFilePath": "C:\\Users\\Matias\\Desktop\\proyecto_cursoCSharp\\Pacagroup.Ecommerce_v4\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Infrastructure.Repository\\Pacagroup.Ecommerce.Infrastructure.Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Matias\\.nuget\\packages\\dapper\\1.50.5\\dapper.1.50.5.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.extensions.configuration\\2.2.0\\microsoft.extensions.configuration.2.2.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JffYQ6RuKc/GtCMXJ5eU9nPptNkgGUkEe6nRE1bDF4DrW9PG6Aq+PwlMrjYK2PCiKWMjPLDBLBhVmjzj03Q57w==",
+  "dgSpecHash": "JpTWxh5ajdTqA9Y7qcPY875FDVZ+4bi6kVMaEtY4GX/J9Ftxf5WjnlLhk70Y/ilPTp2++vtXfFPCucYbEpaqLQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Matias\\Desktop\\proyecto_cursoCSharp\\proyecto\\Pacagroup.Ecommerce_v2\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Infrastructure.Data\\Pacagroup.Ecommerce.Infrastructure.Data.csproj",
+  "projectFilePath": "C:\\Users\\Matias\\Desktop\\proyecto_cursoCSharp\\Pacagroup.Ecommerce_v4\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Infrastructure.Data\\Pacagroup.Ecommerce.Infrastructure.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.extensions.configuration\\2.2.0\\microsoft.extensions.configuration.2.2.0.nupkg.sha512",
     "C:\\Users\\Matias\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\2.2.0\\microsoft.extensions.configuration.abstractions.2.2.0.nupkg.sha512",
